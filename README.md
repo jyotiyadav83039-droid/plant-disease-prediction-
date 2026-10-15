@@ -180,7 +180,7 @@ pip install -r requirements.txt
 - **Deepika**
 - **Akanksha Kumari**
 
-CA2 Project — Data Analytics / Machine Learning
+Data Analytics / Machine Learning
 
 ---
 
